@@ -2,6 +2,16 @@
     "spider": "./xyqxbpq.jar",
     
     "sites": [
+        {
+            "key": "18py",
+            "name": "18",
+            "type": 3,
+            "api": "./py/乐哥I8AV.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
 {
             "key": "18AV",
             "name": "18AV",
