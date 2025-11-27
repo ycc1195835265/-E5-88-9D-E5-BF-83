@@ -2,6 +2,13 @@
     "spider": "./xyqxbpq.jar",
     
     "sites": [
+{
+            "key": "18AV",
+            "name": "18AV",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/18AV.json"
+        },
         {
             "key": "路飞影视",
             "name": "路飞影视",
