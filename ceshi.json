@@ -3,6 +3,13 @@
     
     "sites": [
         {
+            "key": "X5社区js",
+            "name": "5X社区密",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/5X社区密.js"
+        },
+        {
             "key": "18py",
             "name": "18",
             "type": 3,
