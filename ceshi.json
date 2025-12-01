@@ -2,6 +2,40 @@
     "spider": "./xyqxbpq.jar",
     
     "sites": [
+{
+            "key": "大蜜桃",
+            "name": "👠大蜜桃🩱TV",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": {
+                "站名": "大蜜桃影视",
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "主页url": "https://www.damitao.com/",
+                "首页": "120",
+                "起始页": "1",
+                "数组": "hl-item-thumb hl-lazy&&</a",
+                "标题": "title=\"&&\"",
+                "副标题": "",
+                "图片": "data-original=\"&&\"",
+                "链接": "href=\"&&\"",
+                "分类url": "/s/{cateId}--{by}---{letter}---{catePg}---.html",
+                "分类数组": "hl-bg-subs&&/a>",
+                "分类标题": ">&&</",
+                "分类ID": "/l-&&.html",
+                "线路数组": "alt=\"&&/a>",
+                "线路标题": "👗+</i>&&<",
+                "跳转播放链接": "var player_*\"url\":\"&&\"",
+                "播放数组": "id=\"hl-plays-list\">&&</ul",
+                "播放列表": "<li&&/li>",
+                "播放标题": ">&&</a",
+                "播放链接": "href=\"&&\"",
+                "搜索url": "/search/{wd}----------{pg}---.html"
+            }
+        },
         {
             "key": "X5社区js",
             "name": "5X社区密",
